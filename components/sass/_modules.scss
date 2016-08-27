@@ -6,7 +6,7 @@
 // _modules.scss
 // ============
 .city {
-  @include backImage('../images/backgrounds/seattle_skyline.jpg');
+  @include backImage('../images/carosuel_mosque.jpg');
   img.logo {
     position: absolute;
     right: 0;
@@ -73,7 +73,7 @@
 } //featured artists
 
 .potterypix {
-  @include backImage('../images/backgrounds/pottery_workshop.jpg');
+  @include backImage('../images/carousel_mornin.jpg');
   border-bottom: 50px solid $darkGreenGold;
 } //venue
 
@@ -84,7 +84,7 @@
 }
 
 .workshoppix {
-  @include backImage('../images/backgrounds/woodworking_workshop.jpg');
+  @include backImage('../images/carousel_streets.jpg');
   border-bottom: 50px solid $darkGreenGold;
 } //workshops
 

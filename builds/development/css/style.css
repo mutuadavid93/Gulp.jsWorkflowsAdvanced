@@ -133,7 +133,7 @@ section {
     Author     : Street
 */
 .city {
-  background: url("../images/backgrounds/seattle_skyline.jpg") no-repeat 50% 20%;
+  background: url("../images/carosuel_mosque.jpg") no-repeat 50% 20%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -222,7 +222,7 @@ section {
 }
 
 .potterypix {
-  background: url("../images/backgrounds/pottery_workshop.jpg") no-repeat 50% 20%;
+  background: url("../images/carousel_mornin.jpg") no-repeat 50% 20%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -254,7 +254,7 @@ section {
 }
 
 .workshoppix {
-  background: url("../images/backgrounds/woodworking_workshop.jpg") no-repeat 50% 20%;
+  background: url("../images/carousel_streets.jpg") no-repeat 50% 20%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
